@@ -1,4 +1,9 @@
 tomatoes
 beans
 chili powder
+garlic 
+garlic powder 
+corn 
+jalapenos 
+onions 
 

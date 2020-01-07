@@ -6,3 +6,4 @@ cilantro
 salt
 tomato
 pepper
+jalapenos 

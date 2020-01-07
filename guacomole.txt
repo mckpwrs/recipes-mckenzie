@@ -4,6 +4,5 @@ garlic
 onion 
 cilantro 
 salt
-hot sauce 
 tomato
 pepper
